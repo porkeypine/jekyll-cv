@@ -7,15 +7,15 @@
         .project-title {
             @include body-text;
             
-            color: black;
+            // color: black;
             
             display: flex;
             flex-direction: row;
             justify-content: space-between;
             font-weight: bold;
-            .link {
-                color: black;
-            }
+            // .link {
+            //     color: black;
+            // }
             .time {
                 float: right;
                 color: var(--fg-color-title-sm);
