@@ -7,6 +7,9 @@
         .project-title {
             @include body-text;
             font-weight: bold;
+            .project-link {
+                font-weight: 200;
+            }
             .time {
                 float: right;
                 color: var(--fg-color-title-sm);
