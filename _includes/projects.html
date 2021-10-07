@@ -9,11 +9,13 @@
                     <a class="project-link" href="{{p.link}}">
                         {{p.title}}
                     </a>
+                    <span class="time">{{p.time}}</span>
                 </div>
             {% else %}
-                <div>{{p.title}}</div>
+                <div>{{p.title}}
+                    <span class="time">{{p.time}}</span>
+                </div>
             {% endif %}
-            <span class="time">{{p.time}}</span>
             <div class="details">{{p.details}}</div>    
         </div>
     {% endfor %}
