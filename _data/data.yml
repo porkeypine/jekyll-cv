@@ -86,17 +86,58 @@ publications:
 
 # Projects and Competitions
 projects:
-  - title: Cool Project 
+  - title: Tembusu College Welcome Week - Interactive Web Game
+    link: tww2020.herokuapp.com
+    details: |
+      Created an online multi-user interactive canvas with authentication in a team of 6, based off Reddit’s r/Place
+      Built a website, mainly working on a Virtual Tour segment using HTML/CSS/JS and SVGs 
+      tww2020.herokuapp.com 
+      [Jun 2020 - Jul 2020]
+  - title: NUS Greyhats Capture the Flag
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Solved computer security CTF challenges, in categories such as web security, reverse engineering, cryptography, and binary exploitation in a team of 4
+      Finished top 20 in over 100 teams
+      [Aug 2021]
+  - title: Gemini Project - Interactive Web Game
+    link: gemini-project.herokuapp.com
+    details: |
+      Conceptualised, designed and built a browser-based, point-and-click puzzle game with a friend using HTML/CSS/JS, with the purpose of raising awareness on OCD 
+      gemini-project.herokuapp.com
+      [May 2020 - Jul 2020]
+  - title: DSTA BrainHack Today-I-Learnt
+    details: |
+      Learnt about and trained basic Machine Learning models on Computer Vision using Python (Keras etc.)
+      [Jun 2020]
+  - title: codeForCorona 2020 Hackathon
+    details: |
+      Conceptualised and created a website with a friend for crowd-sourcing ideas on what to do when stuck at home, using SQL database and HTML/CSS/JS | huijia.herokuapp.com
+      [May 2020]
+  - title: Hack&Roll
+    details: |
+      Created an IoT gadget that plays funny voice lines when a door is pushed or pulled in the wrong direction, in a team of 4 using Python with Flask and ngrok, and React with Expo
+      [Jan 2020]
+  - title: Hackomania
+    details: |
+      Built a multiplayer web-based game for transcribing voice recordings in a team of 4, using JS, sockets and Phaser 3
+      [Feb 2019]
+  - title: AI Algorithms Learning Projects
+      details: |
+      Worked on 3 small projects (such as training a Pacman game) with a partner, implementing algorithms including A-star Search, Backtracking, AC-3, Q-Learning, and Feature Extraction using Python
+      [Sep 2020 - Nov 2020]
+  - title: Software Engineering Learning Project
+      details: |
+      Worked on a brown-field software engineering project (clinic management tool) in a team of 5, learning Java, Git, UML, documentation, good software engineering practices and design models etc.
+      [Sep 2020 - Nov 2020]
+  - title: React Native Learning Projects
+      details: |
+      Learnt React Native from a Udemy course, creating small mobile applications: a diary app and a food reviews app
+      [May 2020]
+  - title: INVENT Enrichment Program
+      details: |
+      Created a prototype of a smart fridge sensor using Arduino and pitched it, learning about the start-up process 
+      [Feb 2017 - Nov 2017]
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
 
 # Leadership and Extracurricular Activities
 volunteering:
