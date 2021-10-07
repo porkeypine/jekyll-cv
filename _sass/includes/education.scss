@@ -5,6 +5,7 @@
     }
     .education-item {
         margin-bottom: 20px;
+        text-align: left;
         .degree {
             @include body-text;
             font-weight: bold;
