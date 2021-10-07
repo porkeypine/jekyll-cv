@@ -89,7 +89,7 @@ projects:
     time: Jun 2020 - Jul 2020
     details: |
       Created an online multi-user interactive canvas with authentication in a team of 6, based off Reddit’s r/Place |
-      Built a website, mainly working on a Virtual Tour segment using HTML/CSS/JS and SVGs |
+      Built a website, mainly working on a Virtual Tour segment using HTML/CSS/JS and SVGs
   - title: NUS Greyhats Capture the Flag
     time: Aug 2021
     details: |
@@ -101,12 +101,12 @@ projects:
       Conceptualised, designed and built a browser-based, point-and-click puzzle game with a friend using HTML/CSS/JS, with the purpose of raising awareness on OCD |
     time: May 2020 - Jul 2020
   - title: DSTA BrainHack
-    details: |
+    details: |  
       Learnt about and trained basic Machine Learning models on Computer Vision using Python (Keras etc.)
     time: Jun 2020
   - title: "#codeForCorona 2020 Hackathon"
     link: https://huijia.herokuapp.com
-    details: |
+    details: |  
       Conceptualised and created a website with a friend for crowd-sourcing ideas on what to do when stuck at home, using SQL database and HTML/CSS/JS |
     time: May 2020
   - title: Hack&Roll
