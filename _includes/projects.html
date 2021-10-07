@@ -4,18 +4,16 @@
     <h2 class="title">Projects and Competitions</h2>
     {% for p in projects %}
         <div class="project">
-            <div class="project-title">
-                {% if p.link %}
-                    <span>
-                        <a class="project-link" href="{{p.link}}">
-                            {{p.title}}
-                        </a>
-                    </span>
-                {% else %}
-                    <span>{{p.title}}</span>
-                {% endif %}
-                <span class="time">{{p.time}}</span>
-            </div>
+            {% if p.link %}
+                <div class="project-title">
+                    <a class="project-link" href="{{p.link}}">
+                        {{p.title}}
+                    </a>
+                </div>
+            {% else %}
+                <div>{{p.title}}</div>
+            {% endif %}
+            <span class="time">{{p.time}}</span>
             <div class="details">{{p.details}}</div>    
         </div>
     {% endfor %}

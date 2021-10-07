@@ -85,32 +85,29 @@ publications:
 # Projects and Competitions
 projects:
   - title: Tembusu College Welcome Week - Interactive Web Game
-    link: tww2020.herokuapp.com
+    link: https://tww2020.herokuapp.com
     time: Jun 2020 - Jul 2020
     details: |
       Created an online multi-user interactive canvas with authentication in a team of 6, based off Reddit’s r/Place |
       Built a website, mainly working on a Virtual Tour segment using HTML/CSS/JS and SVGs |
-      tww2020.herokuapp.com 
   - title: NUS Greyhats Capture the Flag
     time: Aug 2021
     details: |
       Solved computer security CTF challenges, in categories such as web security, reverse engineering, cryptography, and binary exploitation in a team of 4 |
       Finished top 20 in over 100 teams 
   - title: Gemini Project (Interactive Web Game)
-    link: gemini-project.herokuapp.com
+    link: https://gemini-project.herokuapp.com
     details: |
       Conceptualised, designed and built a browser-based, point-and-click puzzle game with a friend using HTML/CSS/JS, with the purpose of raising awareness on OCD |
-      gemini-project.herokuapp.com
     time: May 2020 - Jul 2020
   - title: DSTA BrainHack
     details: |
       Learnt about and trained basic Machine Learning models on Computer Vision using Python (Keras etc.)
     time: Jun 2020
   - title: "#codeForCorona 2020 Hackathon"
-    link: huijia.herokuapp.com
+    link: https://huijia.herokuapp.com
     details: |
       Conceptualised and created a website with a friend for crowd-sourcing ideas on what to do when stuck at home, using SQL database and HTML/CSS/JS |
-      huijia.herokuapp.com
     time: May 2020
   - title: Hack&Roll
     details: |
