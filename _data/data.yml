@@ -45,7 +45,7 @@ skills:
 
 # Profile
 profile: |
-  I am a penultimate year Computer Science student at National University of Singapore. I am always eager to learn new things and explore the unknown, and I am looking to go into science and tech that can do meaningful things in this world :)
+  I am a penultimate year Computer Science student at National University of Singapore. I am always eager to learn new things and explore the unknown, and I am looking to go into tech that can make meaningful change in this world!
 
 # Experience
 experience:
@@ -63,8 +63,8 @@ experience:
     company: NUS School of Computing
     details: |
       Taught weekly lessons, graded assignments and held personal consults for one tutorial class of the following two courses:
-      * Programming Methodology (taught in my Year 2 Semester 1)
-      * Programming Methodology II (taught in my Year 2 Semester 2)
+      - Programming Methodology (taught in my Year 2 Semester 1)
+      - Programming Methodology II (taught in my Year 2 Semester 2)
     technologies_used: | 
       Java, spin-off of JavaScript (teaching language for the course)
 
