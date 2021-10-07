@@ -61,10 +61,10 @@ experience:
   - role: Undergraduate Teaching Assistant
     time: Aug 2020 - Apr 2021
     company: NUS School of Computing
-    details: |
-      Taught weekly lessons, graded assignments and held personal consults for one tutorial class of the following two courses:
-      * Programming Methodology (taught in my Year 2 Semester 1) 
-      * Programming Methodology II (taught in my Year 2 Semester 2)
+    details: |+
+      Taught weekly lessons, graded assignments and held personal consults for one tutorial class of the following two courses: 
+      Programming Methodology (taught in my Year 2 Semester 1) 
+      Programming Methodology II (taught in my Year 2 Semester 2)
     technologies_used: | 
       Java, spin-off of JavaScript (teaching language for the course)
 
