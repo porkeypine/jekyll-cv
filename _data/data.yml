@@ -102,41 +102,41 @@ projects:
     details: |
       Conceptualised, designed and built a browser-based, point-and-click puzzle game with a friend using HTML/CSS/JS, with the purpose of raising awareness on OCD |
       gemini-project.herokuapp.com
-      (May 2020 - Jul 2020)
+    time: May 2020 - Jul 2020
   - title: DSTA BrainHack
     details: |
       Learnt about and trained basic Machine Learning models on Computer Vision using Python (Keras etc.)
-      (Jun 2020)
+    time: Jun 2020
   - title: "#codeForCorona 2020 Hackathon"
     link: huijia.herokuapp.com
     details: |
       Conceptualised and created a website with a friend for crowd-sourcing ideas on what to do when stuck at home, using SQL database and HTML/CSS/JS |
       huijia.herokuapp.com
-      (May 2020)
+    time: May 2020
   - title: Hack&Roll
     details: |
       Created an IoT gadget that plays funny voice lines when a door is pushed or pulled in the wrong direction, in a team of 4 using Python with Flask and ngrok, and React with Expo
-      (Jan 2020)
+    time: Jan 2020
   - title: Hackomania
     details: |
       Built a multiplayer web-based game for transcribing voice recordings in a team of 4, using JS, sockets and Phaser 3
-      (Feb 2019)
+    time: Feb 2019
   - title: AI Algorithms Learning Projects
     details: |
       Worked on 3 small projects (such as training a Pacman game) with a partner, implementing algorithms including A-star Search, Backtracking, AC-3, Q-Learning, and Feature Extraction using Python
-      (Sep 2020 - Nov 2020)
+    time: Sep 2020 - Nov 2020
   - title: Software Engineering Learning Project
     details: |
       Worked on a brown-field software engineering project (clinic management tool) in a team of 5, learning Java, Git, UML, documentation, good software engineering practices and design models etc.
-      (Sep 2020 - Nov 2020)
+    time: Sep 2020 - Nov 2020
   - title: React Native Learning Projects
     details: |
       Learnt React Native from a Udemy course, creating small mobile applications: a diary app and a food reviews app
-      (May 2020)
+    time: May 2020
   - title: INVENT Enrichment Program
     details: |
       Created a prototype of a smart fridge sensor using Arduino and pitched it, learning about the start-up process 
-      (Feb 2017 - Nov 2017)
+    time: Feb 2017 - Nov 2017
 
 
 # Leadership and Extracurricular Activities

@@ -5,26 +5,13 @@
     {% for p in projects %}
         <div class="project">
             <div class="project-title">
-                {% comment %} {% if p.link != '' %}
-                    <a class="project-link" href="{{p.link}}">
-                        {{p.title}}                          
-                    </a>
-                {% else %} {% endcomment %}
                 {{p.title}}
                 <span class="time">{{p.time}}</span>
             </div>
+            {% comment %} <a class="project-link" href="{{p.link}}">
+                {{p.title}}
+            </a> {% endcomment %}
             <div class="details">{{p.details}}</div>    
-            {% comment %} <span>
-                <strong>
-                    {% if p.link != '' %}
-                        <a class="project-link" href="{{p.link}}">
-                            {{p.title}}                          
-                        </a>
-                    {% else %}
-                        {{p.title}}
-                </strong>
-            </span>
-            <span class="details">- {{p.details}}</span> {% endcomment %}
         </div>
     {% endfor %}
 </section>
