@@ -1,43 +1,47 @@
-name: John Doe
+name: Hui Ling Shi
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: huiling.shi@u.nus.edu
+  github: porkeypine
+  linkedin: hui-ling-shi-070058184/
+  phone: +65 8588 4658
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Chinese
+  # - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: BComp in Computer Science
+    time: 2019-2023
+    university: National University of Singapore
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Singapore-Cambridge General Certification of Education (Advanced)
+    time: 2013-2018
+    university: Raffles Girls' School & Junior College
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Golang
+      - Java
+      - Python
+      - C/C++
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - ReactJS
+      - Javascript / Typescript
+      - HTML
+      - CSS, Chakra UI, Material UI
+  - category: DevOps (Basic)
     skill:
       - Docker
-      - Kubernetes 
+      - AWS 
 
 # Profile
 profile: |
@@ -49,41 +53,38 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Software Engineer Intern
+    time: May 2021 - Aug 2021
+    company: Government Technology Agency Singapore
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      - Worked on full-stack web development projects in an Agile team 
+      - Completed a data uploading and ETL feature among other front-end and back-end user stories
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Golang, React/Typescript/CSS, PostgreSQL, AWS
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Undergraduate Teaching Assistant
+    time: Aug 2020 - Apr 2021
+    company: NUS School of Computing
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Taught weekly lessons, graded assignments and held personal consults for one tutorial class of the following two courses:
+      - Programming Methodology (taught in my Year 2 Semester 1) 
+      - Programming Methodology II (taught in my Year 2 Semester 2)
+    # technologies_used: | 
+    #   Python, Tensorflow, Keras, Matlab
 
+# Scholastic Achievements/Honours
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Scholarship
+    # link: "#"
+    authors: National University of Singapore Merit Scholarship
+    conference: awarded for academic excellence 
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: Scholarship - Offered
+    # link: "#"
+    authors: Urban Redevelopment Authority of Singapore Overseas Scholarship for University of California, Los Angeles (accepted for Computer Science) or Imperial College London (accepted for Computing)
+    conference: Not taken up due to bond
 
+# Projects and Competitions
 projects:
   - title: Cool Project 
     link: #
@@ -97,12 +98,37 @@ projects:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-# Volunteering
+# Leadership and Extracurricular Activities
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: May 2020 - Apr 2021
+    role: Head of Operations, Google Developers' Student Club (DSC)
+    company: NUS School of Computing
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Facilitated and organised a hackathon (Hack For Good 2021), industry talks and tech workshops, with the aim of inspiring more students to utilise technology to do social good
+  - time: Jan 2020 - Apr 2021
+    role: Founder / Chairperson of Outdoor Adventure Club
+    company: NUS Tembusu College
+    details: |
+      Started an Outdoor Adventure Interest Group in NUS Tembusu College in Year 1, arranging fun weekly or fortnightly activities for fellow residents such as treks, cycling trips, kayaking and paintball events
+  - time: May 2020 - Apr 2021
+    role: Vice-Captain of Dodgeball Interest Group 
+    company: NUS Tembusu College
+    details: |
+      Ran twice-weekly trainings and organised friendly matches and competitive games with other NUS Colleges, inciting interest in the sport and teaching new players
+  - time: Jan 2020 - Feb 2021
+    role: Organising Committee for Project Back In My Day
+    company: Volunteering Project
+    details: |
+      Conceptualised, planned and executed a new community project in a team of 6, centred around filming videos with elderly to showcase their skills and knowledge, posted on YouTube and social media
+  - time: Feb 2020 - Dec 2020
+    role: Organising Committee for Paint-a-Home XXI
+    company: Volunteering Project
+    details: |
+      Organised the 21st run of community service project Paint-a-Home, where we repainted around 20 1-room and 2-room rental homes owned mostly by elderly 
+  - time: May 2017 - May 2018
+    role: Chairperson of Outdoor Adventure Club
+    company: Raffles Junior College
+    details: |
+      Served as the CCA Leader of the Outdoor Adventure Club in JC, planning and executing multiple large-scale events (e.g. school-wide 50km cycling event, 3D2N CCA camp), in addition to weekly CCA sessions
+  
+
