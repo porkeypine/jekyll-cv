@@ -53,7 +53,7 @@ experience:
     time: May 2021 - Aug 2021
     company: Government Technology Agency Singapore
     details: |
-      Worked on full-stack web development projects in an Agile team 
+      Worked on two full-stack web development projects (one green-field, one brown-field) in an Agile team 
       Completed a data uploading and ETL feature among other front-end and back-end user stories
     technologies_used: |
       Golang, ReactJS, Typescript, CSS (Chakra UI & Material UI), PostgreSQL, AWS
