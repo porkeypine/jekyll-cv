@@ -53,8 +53,8 @@ experience:
     time: May 2021 - Aug 2021
     company: Government Technology Agency Singapore
     details: |
-      Worked on full-stack web development projects in an Agile team 
-      Completed a data uploading and ETL feature among other front-end and back-end user stories
+      "Worked on full-stack web development projects in an Agile team \n
+      Completed a data uploading and ETL feature among other front-end and back-end user stories"
     technologies_used: | 
       Golang, ReactJS, Typescript, CSS (Chakra UI & Material UI), PostgreSQL, AWS
   
@@ -62,9 +62,9 @@ experience:
     time: Aug 2020 - Apr 2021
     company: NUS School of Computing
     details: |
-      Taught weekly lessons, graded assignments and held personal consults for one tutorial class of the following two courses: \n
-      Programming Methodology (taught in my Year 2 Semester 1) \n <br />
-      Programming Methodology II (taught in my Year 2 Semester 2)
+      "Taught weekly lessons, graded assignments and held personal consults for one tutorial class of the following two courses: \n 
+      Programming Methodology (taught in my Year 2 Semester 1) \n 
+      Programming Methodology II (taught in my Year 2 Semester 2)"
     technologies_used: | 
       Java, spin-off of JavaScript (teaching language for the course)
 
