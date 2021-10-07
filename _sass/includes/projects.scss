@@ -4,10 +4,10 @@
     }
     .project {
         margin-bottom: 20px;
-        .project-title {
+        .title {
             @include body-text;
             font-weight: bold;
-            .project-link {
+            .link {
                 font-weight: 200;
             }
             .time {

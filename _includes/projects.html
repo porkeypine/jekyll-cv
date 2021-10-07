@@ -5,14 +5,14 @@
     {% for p in projects %}
         <div class="project">
             {% if p.link %}
-                <div class="project-title">
-                    <a class="project-link" href="{{p.link}}">
+                <div class="title">
+                    <a class="link" href="{{p.link}}">
                         {{p.title}}
                     </a>
                     <span class="time">{{p.time}}</span>
                 </div>
             {% else %}
-                <div class="project-title">{{p.title}}
+                <div class="title">{{p.title}}
                     <span class="time">{{p.time}}</span>
                 </div>
             {% endif %}
