@@ -52,9 +52,9 @@ experience:
   - role: Software Engineer Intern
     time: May 2021 - Aug 2021
     company: Government Technology Agency Singapore
-    details: |
-      "Worked on full-stack web development projects in an Agile team \n
-      Completed a data uploading and ETL feature among other front-end and back-end user stories"
+    details: | 
+      Worked on full-stack web development projects in an Agile team |
+      Completed a data uploading and ETL feature among other front-end and back-end user stories
     technologies_used: | 
       Golang, ReactJS, Typescript, CSS (Chakra UI & Material UI), PostgreSQL, AWS
   
@@ -62,9 +62,9 @@ experience:
     time: Aug 2020 - Apr 2021
     company: NUS School of Computing
     details: |
-      "Taught weekly lessons, graded assignments and held personal consults for one tutorial class of the following two courses: \n 
-      Programming Methodology (taught in my Year 2 Semester 1) \n 
-      Programming Methodology II (taught in my Year 2 Semester 2)"
+      Taught weekly lessons, graded assignments and held personal consults for one tutorial class of the following two courses: |
+      Programming Methodology (taught in my Year 2 Semester 1) |
+      Programming Methodology II (taught in my Year 2 Semester 2)
     technologies_used: | 
       Java, spin-off of JavaScript (teaching language for the course)
 
@@ -78,8 +78,8 @@ publications:
   - title: Scholarship - Offered
     # link: "#"
     authors: | 
-      * Urban Redevelopment Authority of Singapore Overseas Scholarship 
-      * For University of California, Los Angeles (accepted for Computer Science) or Imperial College London (accepted for Computing)
+      Urban Redevelopment Authority of Singapore Overseas Scholarship |
+      For University of California, Los Angeles (accepted for Computer Science) or Imperial College London (accepted for Computing)
     conference: Not taken up due to scholarship bond
 
 # Projects and Competitions
@@ -87,56 +87,56 @@ projects:
   - title: Tembusu College Welcome Week - Interactive Web Game
     link: tww2020.herokuapp.com
     details: |
-      * Created an online multi-user interactive canvas with authentication in a team of 6, based off Reddit’s r/Place
-      * Built a website, mainly working on a Virtual Tour segment using HTML/CSS/JS and SVGs 
-      * tww2020.herokuapp.com 
-      * (Jun 2020 - Jul 2020]
+      Created an online multi-user interactive canvas with authentication in a team of 6, based off Reddit’s r/Place |
+      Built a website, mainly working on a Virtual Tour segment using HTML/CSS/JS and SVGs |
+      tww2020.herokuapp.com 
+      (Jun 2020 - Jul 2020)
   - title: NUS Greyhats Capture the Flag
     link: #
     details: |
-      * Solved computer security CTF challenges, in categories such as web security, reverse engineering, cryptography, and binary exploitation in a team of 4
-      * Finished top 20 in over 100 teams
-      * (Aug 2021)
+      Solved computer security CTF challenges, in categories such as web security, reverse engineering, cryptography, and binary exploitation in a team of 4 |
+      Finished top 20 in over 100 teams 
+      (Aug 2021)
   - title: Gemini Project (Interactive Web Game)
     link: gemini-project.herokuapp.com
     details: |
-      * Conceptualised, designed and built a browser-based, point-and-click puzzle game with a friend using HTML/CSS/JS, with the purpose of raising awareness on OCD 
-      * gemini-project.herokuapp.com
-      * (May 2020 - Jul 2020)
+      Conceptualised, designed and built a browser-based, point-and-click puzzle game with a friend using HTML/CSS/JS, with the purpose of raising awareness on OCD |
+      gemini-project.herokuapp.com
+      (May 2020 - Jul 2020)
   - title: DSTA BrainHack
     details: |
-      * Learnt about and trained basic Machine Learning models on Computer Vision using Python (Keras etc.)
-      * (Jun 2020)
+      Learnt about and trained basic Machine Learning models on Computer Vision using Python (Keras etc.)
+      (Jun 2020)
   - title: "#codeForCorona 2020 Hackathon"
     link: huijia.herokuapp.com
     details: |
-      * Conceptualised and created a website with a friend for crowd-sourcing ideas on what to do when stuck at home, using SQL database and HTML/CSS/JS
-      * huijia.herokuapp.com
-      * (May 2020)
+      Conceptualised and created a website with a friend for crowd-sourcing ideas on what to do when stuck at home, using SQL database and HTML/CSS/JS |
+      huijia.herokuapp.com
+      (May 2020)
   - title: Hack&Roll
     details: |
-      * Created an IoT gadget that plays funny voice lines when a door is pushed or pulled in the wrong direction, in a team of 4 using Python with Flask and ngrok, and React with Expo
-      * (Jan 2020)
+      Created an IoT gadget that plays funny voice lines when a door is pushed or pulled in the wrong direction, in a team of 4 using Python with Flask and ngrok, and React with Expo
+      (Jan 2020)
   - title: Hackomania
     details: |
-      * Built a multiplayer web-based game for transcribing voice recordings in a team of 4, using JS, sockets and Phaser 3
-      * (Feb 2019)
+      Built a multiplayer web-based game for transcribing voice recordings in a team of 4, using JS, sockets and Phaser 3
+      (Feb 2019)
   - title: AI Algorithms Learning Projects
     details: |
-      * Worked on 3 small projects (such as training a Pacman game) with a partner, implementing algorithms including A-star Search, Backtracking, AC-3, Q-Learning, and Feature Extraction using Python
-      * (Sep 2020 - Nov 2020)
+      Worked on 3 small projects (such as training a Pacman game) with a partner, implementing algorithms including A-star Search, Backtracking, AC-3, Q-Learning, and Feature Extraction using Python
+      (Sep 2020 - Nov 2020)
   - title: Software Engineering Learning Project
     details: |
-      * Worked on a brown-field software engineering project (clinic management tool) in a team of 5, learning Java, Git, UML, documentation, good software engineering practices and design models etc.
-      * (Sep 2020 - Nov 2020)
+      Worked on a brown-field software engineering project (clinic management tool) in a team of 5, learning Java, Git, UML, documentation, good software engineering practices and design models etc.
+      (Sep 2020 - Nov 2020)
   - title: React Native Learning Projects
     details: |
-      * Learnt React Native from a Udemy course, creating small mobile applications: a diary app and a food reviews app
-      * (May 2020)
+      Learnt React Native from a Udemy course, creating small mobile applications: a diary app and a food reviews app
+      (May 2020)
   - title: INVENT Enrichment Program
     details: |
-      * Created a prototype of a smart fridge sensor using Arduino and pitched it, learning about the start-up process 
-      * (Feb 2017 - Nov 2017)
+      Created a prototype of a smart fridge sensor using Arduino and pitched it, learning about the start-up process 
+      (Feb 2017 - Nov 2017)
 
 
 # Leadership and Extracurricular Activities
