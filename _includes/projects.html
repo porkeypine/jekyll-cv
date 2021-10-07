@@ -6,18 +6,16 @@
         <div class="project">
             <div class="project-title">
                 {% if p.link is defined %}
-                    <a class="project-link" href="{{p.link}}">
-                        {{p.title}}
-                    </a>
+                    <span>
+                        <a class="project-link" href="{{p.link}}">
+                            {{p.title}}
+                        </a>
+                    </span>
                 {% else %}
-                    {{p.title}}
+                    <span>{{p.title}}</span>
                 {% endif %}
-                {% comment %} {{p.title}} {% endcomment %}
                 <span class="time">{{p.time}}</span>
             </div>
-            {% comment %} <a class="project-link" href="{{p.link}}">
-                {{p.title}}
-            </a> {% endcomment %}
             <div class="details">{{p.details}}</div>    
         </div>
     {% endfor %}

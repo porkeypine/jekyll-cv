@@ -92,7 +92,6 @@ projects:
       Built a website, mainly working on a Virtual Tour segment using HTML/CSS/JS and SVGs |
       tww2020.herokuapp.com 
   - title: NUS Greyhats Capture the Flag
-    link: #
     time: Aug 2021
     details: |
       Solved computer security CTF challenges, in categories such as web security, reverse engineering, cryptography, and binary exploitation in a team of 4 |
