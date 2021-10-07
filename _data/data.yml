@@ -86,17 +86,17 @@ publications:
 projects:
   - title: Tembusu College Welcome Week - Interactive Web Game
     link: tww2020.herokuapp.com
+    time: Jun 2020 - Jul 2020
     details: |
       Created an online multi-user interactive canvas with authentication in a team of 6, based off Reddit’s r/Place |
       Built a website, mainly working on a Virtual Tour segment using HTML/CSS/JS and SVGs |
       tww2020.herokuapp.com 
-      (Jun 2020 - Jul 2020)
   - title: NUS Greyhats Capture the Flag
     link: #
+    time: Aug 2021
     details: |
       Solved computer security CTF challenges, in categories such as web security, reverse engineering, cryptography, and binary exploitation in a team of 4 |
       Finished top 20 in over 100 teams 
-      (Aug 2021)
   - title: Gemini Project (Interactive Web Game)
     link: gemini-project.herokuapp.com
     details: |
