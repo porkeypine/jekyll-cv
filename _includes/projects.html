@@ -5,18 +5,18 @@
     {% for p in projects %}
         <div class="project">
             {% if p.link %}
-                <div class="title">
+                <div class="project-title">
                     <a class="link" href="{{p.link}}">
                         {{p.title}}
                     </a>
                     <span class="time">{{p.time}}</span>
                 </div>
             {% else %}
-                <div class="title">{{p.title}}
+                <div class="project-title">{{p.title}}
                     <span class="time">{{p.time}}</span>
                 </div>
             {% endif %}
-            <div class="details">{{p.details}}</div>    
+            <div class="details">{{p.details |newline_to_br}}</div>    
         </div>
     {% endfor %}
 </section>

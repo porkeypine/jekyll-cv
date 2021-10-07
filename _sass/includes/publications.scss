@@ -5,10 +5,10 @@
     .publication-items {
         .publication-item {
             margin-bottom: 20px;
-            .title {
-                @include sub-header; 
-                // font-weight: bold;
-                // text-decoration: none;
+            .publication-title {
+                @include sub-header;
+                font-weight: bold;
+                text-decoration: none;
             }
             .authors {
                 @include body-text; 

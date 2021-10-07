@@ -4,11 +4,17 @@
     }
     .project {
         margin-bottom: 20px;
-        .title {
+        .project-title {
             @include body-text;
+            
+            color: black;
+            
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
             font-weight: bold;
             .link {
-                font-weight: 200;
+                color: black;
             }
             .time {
                 float: right;
