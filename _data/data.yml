@@ -88,51 +88,53 @@ projects:
       Created an online multi-user interactive canvas with authentication in a team of 6, based off Reddit’s r/Place
       Built a website, mainly working on a Virtual Tour segment using HTML/CSS/JS and SVGs 
       tww2020.herokuapp.com 
-      [Jun 2020 - Jul 2020]
+      (Jun 2020 - Jul 2020]
   - title: NUS Greyhats Capture the Flag
     link: #
     details: |
       Solved computer security CTF challenges, in categories such as web security, reverse engineering, cryptography, and binary exploitation in a team of 4
       Finished top 20 in over 100 teams
-      [Aug 2021]
+      (Aug 2021)
   - title: Gemini Project - Interactive Web Game
     link: gemini-project.herokuapp.com
     details: |
       Conceptualised, designed and built a browser-based, point-and-click puzzle game with a friend using HTML/CSS/JS, with the purpose of raising awareness on OCD 
       gemini-project.herokuapp.com
-      [May 2020 - Jul 2020]
+      (May 2020 - Jul 2020)
   - title: DSTA BrainHack Today-I-Learnt
     details: |
       Learnt about and trained basic Machine Learning models on Computer Vision using Python (Keras etc.)
-      [Jun 2020]
+      (Jun 2020)
   - title: codeForCorona 2020 Hackathon
+    link: huijia.herokuapp.com
     details: |
-      Conceptualised and created a website with a friend for crowd-sourcing ideas on what to do when stuck at home, using SQL database and HTML/CSS/JS | huijia.herokuapp.com
-      [May 2020]
+      Conceptualised and created a website with a friend for crowd-sourcing ideas on what to do when stuck at home, using SQL database and HTML/CSS/JS
+      huijia.herokuapp.com
+      (May 2020)
   - title: Hack&Roll
     details: |
       Created an IoT gadget that plays funny voice lines when a door is pushed or pulled in the wrong direction, in a team of 4 using Python with Flask and ngrok, and React with Expo
-      [Jan 2020]
+      (Jan 2020)
   - title: Hackomania
     details: |
       Built a multiplayer web-based game for transcribing voice recordings in a team of 4, using JS, sockets and Phaser 3
-      [Feb 2019]
+      (Feb 2019)
   - title: AI Algorithms Learning Projects
       details: |
       Worked on 3 small projects (such as training a Pacman game) with a partner, implementing algorithms including A-star Search, Backtracking, AC-3, Q-Learning, and Feature Extraction using Python
-      [Sep 2020 - Nov 2020]
+      (Sep 2020 - Nov 2020)
   - title: Software Engineering Learning Project
       details: |
       Worked on a brown-field software engineering project (clinic management tool) in a team of 5, learning Java, Git, UML, documentation, good software engineering practices and design models etc.
-      [Sep 2020 - Nov 2020]
+      (Sep 2020 - Nov 2020)
   - title: React Native Learning Projects
       details: |
       Learnt React Native from a Udemy course, creating small mobile applications: a diary app and a food reviews app
-      [May 2020]
+      (May 2020)
   - title: INVENT Enrichment Program
       details: |
       Created a prototype of a smart fridge sensor using Arduino and pitched it, learning about the start-up process 
-      [Feb 2017 - Nov 2017]
+      (Feb 2017 - Nov 2017)
 
 
 # Leadership and Extracurricular Activities
@@ -143,7 +145,7 @@ volunteering:
     details: |
       Facilitated and organised a hackathon (Hack For Good 2021), industry talks and tech workshops, with the aim of inspiring more students to utilise technology to do social good
   - time: Jan 2020 - Apr 2021
-    role: Founder / Chairperson of Outdoor Adventure Club
+    role: Founder and Chairperson of Outdoor Adventure Club
     company: NUS Tembusu College
     details: |
       Started an Outdoor Adventure Interest Group in NUS Tembusu College in Year 1, arranging fun weekly or fortnightly activities for fellow residents such as treks, cycling trips, kayaking and paintball events
