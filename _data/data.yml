@@ -52,10 +52,10 @@ experience:
   - role: Software Engineer Intern
     time: May 2021 - Aug 2021
     company: Government Technology Agency Singapore
-    details: | #
+    details: |
       Worked on full-stack web development projects in an Agile team | 
       Completed a data uploading and ETL feature among other front-end and back-end user stories
-    technologies_used: | #
+    technologies_used: |
       Golang, ReactJS, Typescript, CSS (Chakra UI & Material UI), PostgreSQL, AWS
   
   - role: Undergraduate Teaching Assistant
