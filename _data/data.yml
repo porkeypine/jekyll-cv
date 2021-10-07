@@ -21,7 +21,7 @@ education:
     time: 2019 - 2023
     university: National University of Singapore
 
-  - degree: Singapore-Cambridge General Certification of Education (Advanced)
+  - degree: GCE A Level
     time: 2013 - 2018
     university: Raffles Girls' School & Junior College
 
@@ -52,18 +52,18 @@ experience:
   - role: Software Engineer Intern
     time: May 2021 - Aug 2021
     company: Government Technology Agency Singapore
-    details: | 
-      Worked on full-stack web development projects in an Agile team |
+    details: | #
+      * Worked on full-stack web development projects in an Agile team | 
       Completed a data uploading and ETL feature among other front-end and back-end user stories
-    technologies_used: | 
+    technologies_used: | #
       Golang, ReactJS, Typescript, CSS (Chakra UI & Material UI), PostgreSQL, AWS
   
   - role: Undergraduate Teaching Assistant
     time: Aug 2020 - Apr 2021
     company: NUS School of Computing
     details: |
-      Taught weekly lessons, graded assignments and held personal consults for one tutorial class of the following two courses: |
-      Programming Methodology (taught in my Year 2 Semester 1) |
+      Taught weekly lessons, graded assignments and held personal consults for one tutorial class of the following two courses:
+      Programming Methodology (taught in my Year 2 Semester 1),
       Programming Methodology II (taught in my Year 2 Semester 2)
     technologies_used: | 
       Java, spin-off of JavaScript (teaching language for the course)
