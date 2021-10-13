@@ -94,6 +94,10 @@ projects:
     link: https://gitfront.io/r/porkeypine/6038e4a1da8e2de29d135b6f7a09f2acc12b2c39/computer-vision-lab1/
     details: |
       Implemented computer vision techniques such as cross-correlation, non-maximum suppression, template matching, canny edge detection and Hough transform in Python
+  - title: Robotics Algorithms Learning Projects
+    time: Aug 2021 - Present
+    details: |
+      Implemented A* search, hybrid A*, and value iteration algorithm for solving MDP in Python
   - title: NUS Greyhats Capture the Flag
     time: Aug 2021
     details: |
