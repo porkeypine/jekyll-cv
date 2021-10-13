@@ -84,17 +84,27 @@ publications:
 
 # Projects and Competitions
 projects:
+  - title: Computer Graphics Learning Projects
+    time: Aug 2021 - Present
+    link: https://gitfront.io/r/porkeypine/285fc300af7a268da87ea6cf3ec439e74fb276d9/computer-graphics-labs/ 
+    details: |
+      Worked on modeling and animation projects using OpenGL and C++
+  - title: Computer Vision Learning Projects
+    time: Aug 2021 - Present
+    link: https://gitfront.io/r/porkeypine/6038e4a1da8e2de29d135b6f7a09f2acc12b2c39/computer-vision-lab1/
+    details: |
+      Implemented computer vision techniques such as cross-correlation, non-maximum suppression, template matching, canny edge detection and Hough transform in Python
+  - title: NUS Greyhats Capture the Flag
+    time: Aug 2021
+    details: |
+      Solved computer security CTF challenges, in categories such as web security, reverse engineering, cryptography, and binary exploitation in a team of 4
+      Finished top 20 in over 100 teams 
   - title: Tembusu College Welcome Week - Interactive Virtual Tour + Web Game
     link: https://tww2020.herokuapp.com
     time: Jun 2020 - Jul 2020
     details: |
       Built a website, mainly working on a Virtual Tour segment using HTML/CSS/JS and SVGs [Explore > Virtual Tour]
       Created an online multi-user interactive canvas with user authentication in a team of 6, based off Reddit’s r/Place [Missions > TPlace] (Interaction has been disabled, but you can still see the canvas produced by the students)
-  - title: NUS Greyhats Capture the Flag
-    time: Aug 2021
-    details: |
-      Solved computer security CTF challenges, in categories such as web security, reverse engineering, cryptography, and binary exploitation in a team of 4
-      Finished top 20 in over 100 teams 
   - title: Gemini Project (Interactive Web Game)
     link: https://gemini-project.herokuapp.com
     details: |
